@@ -5,7 +5,7 @@ This repository includes a Power BI dashboard I created to explore student perfo
 ---
 
 ## Preview
-![Dashboard Preview](Student-Performance-Dashboard.gif)
+Student-Performance-Dashboard.png
 
 ---
 
