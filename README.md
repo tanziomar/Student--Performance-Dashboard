@@ -11,8 +11,8 @@ https://github.com/tanziomar/Student--Performance-Dashboard/blob/main/Student-Pe
 
 ## Files in This Repository
 - **NJ_Tutoring_Dashboard.pbix** – The full interactive Power BI report  
-- **Student-Performance-Dashboard.gif** – Animated preview of the dashboard  
- A PNG version of the dashboard can be added later  
+- **Student-Performance-Dashboard.gif** – Animated preview of the dashboard
+- A PNG version of the dashboard can be added later  
 
 ---
 
